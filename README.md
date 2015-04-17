@@ -1,4 +1,4 @@
 # BASE Express/Jade/Stylus application setup
 
-* Run `DEBUG=smsw_slideshow:* ./bin/www`.
+* Run `DEBUG=express_jade_stylus_template:* ./bin/www`.
 * Open `http://localhost:3000`.
